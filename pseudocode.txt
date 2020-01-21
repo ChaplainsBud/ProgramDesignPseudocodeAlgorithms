@@ -1,1 +1,24 @@
  # PseudocodingPage 
+
+1. Find the Average Score:
+
+i.Prompt User in Console, "Enter 10 scores."
+ii.Create an Array and Push these 10 values into it
+iii.Assign the Array to a variable
+iv.Use method on Array to combine values
+
+(or use a for loop that adds each element
+until the length of the array is reached)
+
+v.Divide value by 10
+vi.Assign value to another variable
+vii.Log out variable or return it
+
+2. How Much Water Runs Off the Roof:
+
+i.Declare a function whose parameters are length,width, and rainfall
+ii.Process the arguments by multiplying them together
+iii.Process the arguments by multiplying the product by 12
+iv.Process the arguments by multiplying the previous product by rainfall
+v.Log out or return the result
+
